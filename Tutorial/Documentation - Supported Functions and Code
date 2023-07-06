@@ -1,4 +1,5 @@
-User Functions:
+**User Functions:**
+*Type these in any grey cell to get a random value filled in for each question*
 
 RandomInt(lo,hi) -> returns a random integer from lo (inclusive) to hi (exclusive)
 
@@ -18,7 +19,7 @@ Example: [RandomInt(1,10)] * 5 will create a list of 5 random numbers
 Example: [4] * 3 will return [4,4,4,4]
 
 
-Supported AP CSP Pseudocode
+**Supported AP CSP Pseudocode**
 
 Variable assignment: var ← expression
 
@@ -35,7 +36,7 @@ Iteration: REPEAT x TIMES, REPEAT UNTIL
 Lists: FOR EACH
 
 
-User Buttons:
+**User Buttons:**
 
 New Question Type: Creates a new sheet to build a question outline in
 
