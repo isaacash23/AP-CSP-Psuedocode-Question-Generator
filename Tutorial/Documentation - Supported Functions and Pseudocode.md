@@ -1,5 +1,4 @@
 **User Functions:**
-*Type these in any grey cell to get a random value filled in for each question*
 
 RandomInt(lo,hi) -> returns a random integer from lo (inclusive) to hi (exclusive)
 
