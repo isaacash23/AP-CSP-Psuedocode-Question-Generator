@@ -1,6 +1,12 @@
 # AP-CSP-Psuedocode-Question-Generator
 This repository contains Google Apps Script code for a google spreadsheet that can create automatically-generated AP Computer Science Principles pseudocode questions. The user defines the outline of the code, and then the Apps Script fills in random values and turns it into a multiple choice question. Also contains documentation and tutorials.
 
+**How-To Videos**
+
+[Video 1: Creating a Question Type](https://drive.google.com/file/d/19sgCUwK-KnJ8NJmg39x_kxa67zOUCmpm/view?usp=sharing)
+
+[Video 2: Creating a Google Form quiz:](https://drive.google.com/file/d/1m8WwjASCsvT6Fay_84zjb291R-D2UlPX/view?usp=sharing)
+
 **How-To Steps:**
 
 1. Make a copy of the spreadsheet by clicking [here](https://docs.google.com/spreadsheets/d/1fVZzHGPySJPLb7-WP7YKkvMtsXDKwRmUsMpL8TidAco/copy#gid=597973330). Be sure that the associated scripts are copied as well, and give permission to the scripts as needed.
