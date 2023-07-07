@@ -1,4 +1,6 @@
-1. Make a copy of the spreadsheet by clicking here. Be sure that the associated scripts are copied as well, and give permission to the scripts as needed.
+**How-To Steps:**
+
+1. Make a copy of the spreadsheet by clicking [here](https://docs.google.com/spreadsheets/d/1fVZzHGPySJPLb7-WP7YKkvMtsXDKwRmUsMpL8TidAco/copy#gid=597973330). Be sure that the associated scripts are copied as well, and give permission to the scripts as needed.
 2. Click on the “New Question Type” button. You may have to authorize the program and then re-click on it. After running, it should create a new sheet.
 3. Once a new sheet is created, fill in the information at the top by typing in:
   a. A name for this type of question
